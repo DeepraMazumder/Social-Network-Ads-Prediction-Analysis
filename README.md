@@ -1,4 +1,4 @@
-# Predictive Analysis of Social Network Advertisements
+# Social Network Ads Prediction Analysis
 
 This project focuses on building a machine learning model to predict user interactions with advertisements on social networks. By analyzing user demographics and ad-related data, the model predicts whether a given user is likely to click on a social media advertisement, helping businesses optimize their ad campaigns.
 
