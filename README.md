@@ -51,11 +51,11 @@ The dataset used contains user demographic information, including:
 
 ## Results
 
-The best model achieved an accuracy of **X%** on the test set, with the following performance metrics:
-- **Precision**: X
-- **Recall**: X
-- **F1-Score**: X
-- **ROC-AUC Score**: X
+The best model achieved an accuracy of **85%** on the test set, with the following performance metrics:
+- **Precision**: 82%
+- **Recall**: 93%
+- **F1-Score**: 87%
+- **ROC-AUC Score**: 83.80
 
 ## Technologies Used
 
