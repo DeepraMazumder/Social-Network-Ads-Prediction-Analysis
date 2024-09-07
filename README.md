@@ -2,19 +2,6 @@
 
 This project focuses on building a machine learning model to predict user interactions with advertisements on social networks. By analyzing user demographics and ad-related data, the model predicts whether a given user is likely to click on a social media advertisement, helping businesses optimize their ad campaigns.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Approach](#approach)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Online advertising on social media platforms has become a critical marketing tool for businesses. However, ensuring the right audience engagement can be challenging. This project aims to address this issue by using machine learning techniques to predict whether a user will engage with an advertisement based on user data such as age, gender, and estimated salary.
